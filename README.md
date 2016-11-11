@@ -1,48 +1,46 @@
-## Your Name
+## Tadas Majeris
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Love programming and love teaching programming. Very grateful to Makers Academy for the practical coding experience - very happy with the projects we have created. I would love to continue to grow in a quality web company.
 
 ## Skills
 
-#### This Skill
+#### Ruby
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Who doesn't love Ruby? Most beautiful language I have ever seen
 
-- Experience
-- Achievements
-- Evidence
+- Started learning basics in June '16, and took it to a high level at Makers Academy
+- During my time at makers I made a Twitter clone, with a team we built an AirBNB website, and lots of other cool stuff
 
-#### Another Skill
+#### Javascript
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Only had a couple weeks of training, but couple weeks at Makers is like a 3 months at UNI!
+I now feel confident to take a job in JavaScript
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Built a Bowling score counter, Notes app, News app (using Guardian API)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September '16 - December '16)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVP
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, HTML, CSS, Javascript
+- RSpec, Jasmine, TadSpec (my own testing library)
 
-#### Your University / College (start_date to end_date)
+#### Kaunas University of Technology (2005 - 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Music Technologies
+- sound engineering studies
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Merchant's Tavern, London** (2014 - 2016)    
+*Cocktail Bartender*
+
+**Vinopolis, London** (2009 - 2013)    
+*Cocktail Bartender*
+
+**Gaumina, Lithuania** (2008 - 2009)   
+*Flash Actionscript programmer*  
