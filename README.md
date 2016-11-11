@@ -1,6 +1,8 @@
 ## Tadas Majeris
 
-Love programming and love teaching programming. Very grateful to Makers Academy for the practical coding experience - very happy with the projects we have created. I would love to continue to grow in a quality web company.
+Love programming and love teaching programming. Passionate about delivering a beautiful product with a great user experience.
+Very grateful to Makers Academy for the practical coding experience - extremely pleased with the projects we have created.
+Now would love to join a quality web company and continue to grow..
 
 ## Skills
 
@@ -9,24 +11,31 @@ Love programming and love teaching programming. Very grateful to Makers Academy 
 Who doesn't love Ruby? Most beautiful language I have ever seen
 
 - Started learning basics in June '16, and took it to a high level at Makers Academy
-- During my time at makers I made a Twitter clone, with a team we built an AirBNB website, and lots of other cool stuff
+- Learned Sinatra, Ruby Gems
+- Built a Twitter clone, AirBNB website, and lots of other cool stuff
 
-#### Javascript
+#### Javascript/jQuery
 
-Only had a couple weeks of training, but couple weeks at Makers is like a 3 months at UNI!
-I now feel confident to take a job in JavaScript
+Love jQuery! Probably my biggest passion. Would love to learn more about animations, as it brings me memories of Flash Actionscript
+Only had a couple weeks of training in JavaScript, but couple weeks at Makers is like a 3 months at UNI! I feel content.
 
+- Learned basics of jQuery and JS
 - Built a Bowling score counter, Notes app, News app (using Guardian API)
+
+#### HTML/CSS
+
+I realized that I love front-end as much as coding the business logic.
+Could happily spend days moving stuff by pixels, making things pretty, I am a bit obsessed about that stuff... :)
 
 ## Education
 
 #### Makers Academy (September '16 - December '16)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVP
-- Software Craftsmanship
-- Ruby, HTML, CSS, Javascript
+- Pairing, Agile teamwork, communicating about code
+- Independent learning and problem-solving
+- OOP, TDD, SOLID, MVC, MVP
+- Building Practical Software
+- Ruby, HTML, CSS, Javascript, jQuery
 - RSpec, Jasmine, TadSpec (my own testing library)
 
 #### Kaunas University of Technology (2005 - 2009)
