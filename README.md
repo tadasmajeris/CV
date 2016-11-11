@@ -14,12 +14,13 @@ Who doesn't love Ruby? Most beautiful language I have ever seen
 - Learned Sinatra, Ruby Gems
 - Built a Twitter clone, AirBNB website, and lots of other cool stuff
 
-#### Javascript/jQuery
+#### JavaScript/jQuery
 
-Love jQuery! Probably my biggest passion. Would love to learn more about animations, as it brings me memories of Flash Actionscript
+Love jQuery! Probably my biggest passion. Would love to learn more about animations, as it brings me memories of Flash Actionscript.
 Only had a couple weeks of training in JavaScript, but couple weeks at Makers is like a 3 months at UNI! I feel content.
 
 - Learned basics of jQuery and JS
+- Understood prototypal and functional principles
 - Built a Bowling score counter, Notes app, News app (using Guardian API)
 
 #### HTML/CSS
@@ -53,3 +54,10 @@ Could happily spend days moving stuff by pixels, making things pretty, I am a bi
 
 **Gaumina, Lithuania** (2008 - 2009)   
 *Flash Actionscript programmer*  
+
+## Interests
+
+- MUSIC! That's my other half of life. Collecting records, throwing parties
+- NATURE - love being in a forrest
+- MOTORCYCLES - feeling of freedom!
+- ROMANCE - gotta admit :)
