@@ -1,5 +1,4 @@
 ## Tadas Majeris
-<!-- !!!!!!!!!!!!! PUT LINKS IN THE CV !!!!!!!!!!!!!! -->
 
 Love programming and love teaching programming. Passionate about delivering a beautiful product with a great user experience.
 Very grateful to Makers Academy for the practical coding experience - extremely pleased with the projects we have created.
