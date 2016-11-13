@@ -1,4 +1,5 @@
 ## Tadas Majeris
+<!-- !!!!!!!!!!!!! PUT LINKS IN THE CV !!!!!!!!!!!!!! -->
 
 Love programming and love teaching programming. Passionate about delivering a beautiful product with a great user experience.
 Very grateful to Makers Academy for the practical coding experience - extremely pleased with the projects we have created.
@@ -12,7 +13,7 @@ Who doesn't love Ruby? Most beautiful language I have ever seen
 
 - Started learning basics in June '16, and took it to a high level at Makers Academy
 - Learned Sinatra, Ruby Gems
-- Built a Twitter clone, AirBNB website, and lots of other cool stuff
+- Built a [Twitter clone](https://github.com/tadasmajeris/chitter-challenge), [AirBNB website](http://team3bnb.herokuapp.com), and lots of other cool stuff
 
 #### JavaScript/jQuery
 
@@ -21,7 +22,7 @@ Only had a couple weeks of training in JavaScript, but couple weeks at Makers is
 
 - Learned basics of jQuery and JS
 - Understood prototypal and functional principles
-- Built a Bowling score counter, Notes app, News app (using Guardian API)
+- Built a [Bowling simulator](https://github.com/tadasmajeris/bowling-challenge), [Notes app](https://github.com/tadasmajeris/notes), [News app (Guardian API)](https://github.com/tadasmajeris/techno-news)
 
 #### HTML/CSS
 
@@ -37,7 +38,7 @@ Could happily spend days moving stuff by pixels, making things pretty, I am a bi
 - OOP, TDD, SOLID, MVC, MVP
 - Building Practical Software
 - Ruby, HTML, CSS, Javascript, jQuery
-- RSpec, Jasmine, TadSpec (my own testing library)
+- RSpec, Jasmine, [TadSpec (my own testing library)](https://github.com/tadasmajeris/tadspec)
 
 #### Kaunas University of Technology (2005 - 2009)
 
@@ -46,18 +47,18 @@ Could happily spend days moving stuff by pixels, making things pretty, I am a bi
 
 ## Experience
 
-**Merchant's Tavern, London** (2014 - 2016)    
+**[Merchant's Tavern](http://www.merchantstavern.co.uk/), London** (2014 - 2016)    
 *Cocktail Bartender*
 
 **Vinopolis, London** (2009 - 2013)    
 *Cocktail Bartender*
 
-**Gaumina, Lithuania** (2008 - 2009)   
+**[Gaumina](https://www.gaumina.lt/index.php?lang=2), Lithuania** (2008 - 2009)   
 *Flash Actionscript programmer*  
 
 ## Interests
 
-- MUSIC! That's my other half of life. Collecting records, throwing parties
-- NATURE - love being in a forrest
+- MUSIC! That's my other half of life. [Collecting records](https://www.discogs.com/user/tfortech/collection), [throwing parties](https://www.residentadvisor.net/promoter.aspx?id=51176)
+- NATURE - love being in a forest
 - MOTORCYCLES - feeling of freedom!
 - ROMANCE - gotta admit :)
