@@ -15,7 +15,7 @@ Who doesn't love Ruby? Most beautiful language I have ever seen
 - Learned Sinatra, Ruby on Rails
 - Built a [Twitter clone](https://github.com/tadasmajeris/chitter-challenge), [AirBNB clone](http://team3bnb.herokuapp.com), [Picstagram](https://github.com/tadasmajeris/instagram-challenge)
 
-#### JavaScript/jQuery
+#### JavaScript / jQuery / Meteor.js
 
 Discovered Meteor.js recently and got mindblown! That's definitely the future.
 Love jQuery! Planning to learn more about animations.
