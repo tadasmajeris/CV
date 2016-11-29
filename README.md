@@ -2,7 +2,7 @@
 
 #### Junior Full Stack Developer
 
-Love programming and love teaching programming. Passionate about delivering a beautiful product.
+Introduced to programming at 12 years old, I got to love programming and sharing the knowledge. Passionate about delivering a beautiful product.
 Sharpened my skills at Makers Academy and made a dozen of projects, enjoying both front-end and back-end.
 
 ## Skills
