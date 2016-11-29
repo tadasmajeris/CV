@@ -1,8 +1,9 @@
 ## Tadas Majeris
 
-Love programming and love teaching programming. Passionate about delivering a beautiful product with a great user experience.
-Very grateful to Makers Academy for the practical coding experience - extremely pleased with the projects we have created.
-Now would love to join a quality web company and continue to grow..
+#### Junior Full Stack Developer
+
+Love programming and love teaching programming. Passionate about delivering a beautiful product.
+Sharpened my skills at Makers Academy and made a dozen of projects, enjoying both front-end and back-end.
 
 ## Skills
 
