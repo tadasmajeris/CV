@@ -12,15 +12,15 @@ Sharpened my skills at Makers Academy and made a dozen of projects, enjoying bot
 Who doesn't love Ruby? Most beautiful language I have ever seen
 
 - Started learning basics in June '16, and took it to a high level at Makers Academy
-- Learned Sinatra, Ruby Gems
-- Built a [Twitter clone](https://github.com/tadasmajeris/chitter-challenge), [AirBNB website](http://team3bnb.herokuapp.com), and lots of other cool stuff
+- Learned Sinatra, Ruby on Rails
+- Built a [Twitter clone](https://github.com/tadasmajeris/chitter-challenge), [AirBNB clone](http://team3bnb.herokuapp.com), [Picstagram](https://github.com/tadasmajeris/instagram-challenge)
 
 #### JavaScript/jQuery
 
-Love jQuery! Probably my biggest passion. Would love to learn more about animations, as it brings me memories of Flash Actionscript.
-Only had a couple weeks of training in JavaScript, but couple weeks at Makers is like a 3 months at UNI! I feel content.
+Discovered Meteor.js recently and got mindblown! That's definitely the future.
+Love jQuery! Planning to learn more about animations.
 
-- Learned basics of jQuery and JS
+- Learned JS, jQuery and Meteor.JS
 - Understood prototypal and functional principles
 - Built a [Bowling simulator](https://github.com/tadasmajeris/bowling-challenge), [Notes app](https://github.com/tadasmajeris/notes), [News app (Guardian API)](https://github.com/tadasmajeris/techno-news)
 
@@ -37,7 +37,7 @@ Could happily spend days moving stuff by pixels, making things pretty, I am a bi
 - Independent learning and problem-solving
 - OOP, TDD, SOLID, MVC, MVP
 - Building Practical Software
-- Ruby, HTML, CSS, Javascript, jQuery
+- Ruby, Rails, HTML, CSS, Javascript, jQuery
 - RSpec, Jasmine, [TadSpec (my own testing library)](https://github.com/tadasmajeris/tadspec)
 
 #### Kaunas University of Technology (2005 - 2009)
