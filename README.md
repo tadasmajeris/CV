@@ -2,8 +2,9 @@
 
 #### Junior Full Stack Developer
 
-Introduced to programming at 12 years old, I got to love programming and sharing the knowledge. Passionate about delivering a beautiful product.
+Introduced to programming at 12 years old, I got to love coding. Later caught the wave of animated Flash websites - being self taught, ended up working as a Flash Actionscript developer, passionate about delivering a beautiful product.
 Sharpened my skills at Makers Academy and made a dozen of projects, enjoying both front-end and back-end.
+A coach at [Rails Girls London](http://railsgirls.com/london) workshops.
 
 ## Skills
 
