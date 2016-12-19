@@ -10,8 +10,6 @@ A coach at [Rails Girls London](http://railsgirls.com/london) workshops.
 
 **Tech Skills**: Ruby, Rails, RSpec, Sinatra, JavaScript, Meteor.js, Jasmine, Mocha, Chimp, HTML, CSS, jQuery, Bootstrap, PostgreSQL, MongoDB
 
-Tech Skills:
-
 ## Projects
 
 Project | Description | Demo | Time spent | Technologies used | Testing
