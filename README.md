@@ -1,34 +1,50 @@
 ## Tadas Majeris
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn][99]
+
 #### Junior Full Stack Developer
 
 Introduced to programming at 12 years old, I got to love coding. Later caught the wave of animated Flash websites - being self taught, ended up working as a Flash Actionscript developer, passionate about delivering a beautiful product.
 Sharpened my skills at Makers Academy and made a dozen of projects, enjoying both front-end and back-end.
 A coach at [Rails Girls London](http://railsgirls.com/london) workshops.
 
+**Tech Skills**: Ruby, Rails, RSpec, Sinatra, JavaScript, Meteor.js, Jasmine, Mocha, Chimp, HTML, CSS, jQuery, Bootstrap, PostgreSQL, MongoDB
+
+Tech Skills:
+
+## Projects
+
+Project | Description | Demo | Time spent | Technologies used | Testing
+--- | --- | --- | --- | --- | ---
+[Music Mates][1] | Social media platform with Spotify API - find friends with similar taste | [![heroku][0]][1.] | 2 weeks | Meteor.JS framework, MongoDB, HTML, CSS | Mocha, Chimp
+[Meteor Battle][2]| Invite online users to Meteor battle! | [![heroku][0]][2.] | 1 week | Meteor.JS framework, MongoDB, HTML, CSS | Mocha, Chimp
+[Makers BNB][3]| AirBNB clone, first project at Makers as a team | [![heroku][0]][3.] | 1 week | Ruby, Sinatra, PostgreSQL, HTML, CSS | RSpec, Capybara
+[Picstagram][4]| Instagram clone, one of the Makers weekend challenges |  | 2 days | Ruby on Rails, PostgreSQL, HTML, CSS | RSpec, Capybara
+[Chitter][5]| Twitter clone, another weekend challenge at Makers Academy |  | 2 days | Ruby, Sinatra, PostgreSQL, HTML, CSS | RSpec, Capybara
+
 ## Skills
 
-#### Ruby
+#### Mathematical brain
 
-Who doesn't love Ruby? Most beautiful language I have ever seen
+- Maths was my favourite subject at school - enjoyed doing exercises, developed a great logical thinking
 
-- Started learning basics in June '16, and took it to a high level at Makers Academy
-- Learned Sinatra, Ruby on Rails
-- Built a [Twitter clone](https://github.com/tadasmajeris/chitter-challenge), [AirBNB clone](http://team3bnb.herokuapp.com), [Picstagram](https://github.com/tadasmajeris/instagram-challenge)
+#### Problem solving
 
-#### JavaScript / jQuery / Meteor.js
+- Approaching problems with optimism, finding various ways to solve it
+- Able to divide a big problem into smaller tasks
 
-Discovered Meteor.js recently and got mindblown! That's definitely the future.
-Love jQuery! Planning to learn more about animations.
+#### Creativity
 
-- Learned JS, jQuery and Meteor.JS
-- Understood prototypal and functional principles
-- Built a [Bowling simulator](https://github.com/tadasmajeris/bowling-challenge), [Notes app](https://github.com/tadasmajeris/notes), [News app (Guardian API)](https://github.com/tadasmajeris/techno-news)
+- Being involved into music production and DJing, developed my creative side of the brain, which helps in working out solutions and web design
 
-#### HTML/CSS
+#### Eye for detail
 
-I realized that I love front-end as much as coding the business logic.
-Could happily spend days moving stuff by pixels, making things pretty, I am a bit obsessed about that stuff... :)
+- Great at spotting typos - very useful in JavaScript :)
+- Can spend hours moving things by pixels or choosing shades of orange...
+
+#### Workaholism
+
+- Will code 9am-2am, if a project is really interesting...or deadline is approaching :)
 
 ## Education
 
@@ -43,8 +59,13 @@ Could happily spend days moving stuff by pixels, making things pretty, I am a bi
 
 #### Kaunas University of Technology (2005 - 2009)
 
-- Music Technologies
+- Bachelor of Arts: Music Technologies
 - sound engineering studies
+
+#### Vilnius University (2004 - 2005)
+
+- Program Systems (Mathematics and Informatics faculty)
+- preparing higher qualification specialists in programming system design
 
 ## Experience
 
@@ -57,9 +78,21 @@ Could happily spend days moving stuff by pixels, making things pretty, I am a bi
 **[Gaumina](https://www.gaumina.lt/index.php?lang=2), Lithuania** (2008 - 2009)   
 *Flash Actionscript programmer*  
 
-## Interests
+## Hobbies
 
 - MUSIC! That's my other half of life. [Collecting records](https://www.discogs.com/user/tfortech/collection), [throwing parties](https://www.residentadvisor.net/promoter.aspx?id=51176)
 - NATURE - love being in a forest
 - MOTORCYCLES - feeling of freedom!
 - ROMANCE - gotta admit :)
+
+[0]: https://dl.dropboxusercontent.com/u/99213524/heroku.png
+[1]: https://github.com/tadasmajeris/music_mates
+[1.]: http://music-mates.herokuapp.com
+[2]: https://github.com/tadasmajeris/meteorBattle
+[2.]: https://fast-gorge-84406.herokuapp.com
+[3]: https://github.com/tadasmajeris/BNB
+[3.]: http://team3bnb.herokuapp.com
+[4]: https://github.com/tadasmajeris/instagram-challenge
+[5]: https://github.com/tadasmajeris/chitter-challenge
+
+[99]: https://www.linkedin.com/in/tadas-majeris-97929749
