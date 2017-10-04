@@ -84,7 +84,7 @@ Project | Description | Demo | Time spent | Technologies used | Testing
 
 ## Hobbies
 
-- MUSIC! That's my other half of life. [Collecting records](https://www.discogs.com/user/tfortech/collection), [throwing parties](https://www.residentadvisor.net/promoter.aspx?id=51176)
+- MUSIC! That's my other half of life. Collecting records, [throwing parties](https://www.residentadvisor.net/promoter.aspx?id=51176)
 - NATURE - love being in a forest
 - MOTORCYCLES - feeling of freedom!
 - ROMANCE - gotta admit :)
