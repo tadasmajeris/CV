@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn][99]
 
-#### Junior Full Stack Developer
+#### Mid-level Front End Developer
 
 Introduced to programming at 12 years old, I got to love coding. Later caught the wave of animated Flash websites - being self taught, ended up working as a Flash Actionscript developer, passionate about delivering a beautiful product.
 Sharpened my skills at Makers Academy and made a dozen of projects, enjoying both front-end and back-end.
@@ -66,6 +66,12 @@ Project | Description | Demo | Time spent | Technologies used | Testing
 - preparing higher qualification specialists in programming system design
 
 ## Experience
+
+**[Upshoot](https://www.upshoot.co.uk/), London** (2017 mar - now)    
+*Frontend Vue.JS developer*
+
+**[Meteor Factory](http://meteorfactory.io/), Berlin (remote)** (2017 jan - 2017 apr)    
+*Junior Full Stack JS developer*
 
 **[Merchant's Tavern](http://www.merchantstavern.co.uk/), London** (2014 - 2016)    
 *Cocktail Bartender*
