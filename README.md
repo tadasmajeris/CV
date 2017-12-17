@@ -6,9 +6,8 @@
 
 Introduced to programming at 12 years old, I got to love coding. Later caught the wave of animated Flash websites - being self taught, ended up working as a Flash Actionscript developer, passionate about delivering a beautiful product.
 Sharpened my skills at Makers Academy and made a dozen of projects, enjoying both front-end and back-end.
-A coach at [Rails Girls London](http://railsgirls.com/london) workshops.
 
-**Tech Skills**: Ruby, Rails, RSpec, Sinatra, JavaScript, Meteor.js, Jasmine, Mocha, Chimp, HTML, CSS, jQuery, Bootstrap, PostgreSQL, MongoDB
+**Tech Skills**: Vue.js, JavaScript, HTML, CSS, jQuery, Bootstrap, PHP, Laravel, Ruby, Rails, RSpec, Sinatra, Meteor.js, Jasmine, Mocha, Chimp, SQL, MongoDB
 
 ## Projects
 
@@ -37,7 +36,7 @@ Project | Description | Demo | Time spent | Technologies used | Testing
 
 #### Eye for detail
 
-- Great at spotting typos - very useful in JavaScript :)
+- Great at spotting typos
 - Can spend hours moving things by pixels or choosing shades of orange...
 
 #### Workaholism
