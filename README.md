@@ -41,7 +41,7 @@ Project | Description | Demo | Time spent | Technologies used | Testing
 
 #### Workaholism
 
-- Will code 9am-2am, if a project is really interesting...or deadline is approaching :)
+- Will code 9am-2am, if a project is really interesting...or deadline is approaching!
 
 ## Education
 
