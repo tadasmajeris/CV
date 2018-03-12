@@ -12,8 +12,8 @@ Sharpened my skills at Makers Academy and made a dozen of projects, enjoying bot
 ## Projects
 
 Project | Description | Time spent | Technologies used | Testing
---- | --- | --- | --- | --- | ---
-[DovileStrazdiene.com][7] | Artist (painter) personal web page | | 1 week |	VUE.JS, Tumblr API |
+--- | --- | --- | --- | ---
+[DovileStrazdiene.com][7] | Artist (painter) personal web page | 1 week |	VUE.JS, Tumblr API |
 [DiggersFriend][6] | Keep up to date with your most wanted records in one place	| 3 weeks |	Meteor.JS, MongoDB, HTML, CSS, Discogs API |
 [Music Mates][1.] | Social media platform with Spotify API - find friends with similar taste | 2 weeks | Meteor.JS framework, MongoDB, HTML, CSS | Mocha, Chimp
 [Makers BNB][3.]| AirBNB clone, first project at Makers as a team | 1 week | Ruby, Sinatra, PostgreSQL, HTML, CSS | RSpec, Capybara
