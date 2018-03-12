@@ -13,8 +13,8 @@ Sharpened my skills at Makers Academy and made a dozen of projects, enjoying bot
 
 Project | Description | Demo | Time spent | Technologies used | Testing
 --- | --- | --- | --- | --- | ---
-[DovileStrazdiene.com][1] | Artist (painter) personal web page | | 1 week |	VUE.JS, Tumblr API |
-[DiggersFriend][1] | Keep up to date with your most wanted records in one place	| | 3 weeks |	Meteor.JS, MongoDB, HTML, CSS, Discogs API |
+[DovileStrazdiene.com][7] | Artist (painter) personal web page | | 1 week |	VUE.JS, Tumblr API |
+[DiggersFriend][6] | Keep up to date with your most wanted records in one place	| | 3 weeks |	Meteor.JS, MongoDB, HTML, CSS, Discogs API |
 [Music Mates][1] | Social media platform with Spotify API - find friends with similar taste | [![heroku][0]][1.] | 2 weeks | Meteor.JS framework, MongoDB, HTML, CSS | Mocha, Chimp
 [Makers BNB][3]| AirBNB clone, first project at Makers as a team | [![heroku][0]][3.] | 1 week | Ruby, Sinatra, PostgreSQL, HTML, CSS | RSpec, Capybara
 [Picstagram][4]| Instagram clone, one of the Makers weekend challenges |  | 2 days | Ruby on Rails, PostgreSQL, HTML, CSS | RSpec, Capybara
@@ -98,5 +98,8 @@ Project | Description | Demo | Time spent | Technologies used | Testing
 [3.]: http://team3bnb.herokuapp.com
 [4]: https://github.com/tadasmajeris/instagram-challenge
 [5]: https://github.com/tadasmajeris/chitter-challenge
+[6]: https://diggersfriend.herokuapp.com
+[7]: http://dovilestrazdiene.com
+
 
 [99]: https://www.linkedin.com/in/tadas-majeris-97929749
