@@ -67,7 +67,7 @@ Project | Description | Time spent | Technologies used | Testing
 
 ## Experience
 
-**[Upshoot](https://www.upshoot.co.uk/), London** (2017 mar - now)    
+**[Upshoot](https://www.upshoot.co.uk/), London** (2017 mar - 2018 may)    
 *Frontend Vue.JS developer*
 
 **[Meteor Factory](http://meteorfactory.io/), Berlin (remote)** (2017 jan - 2017 apr)    
