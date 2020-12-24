@@ -87,7 +87,6 @@ Project | Description | Time spent | Technologies used | Testing
 - MUSIC! That's my other half of life. Collecting records, [throwing parties](https://www.residentadvisor.net/promoter.aspx?id=51176)
 - NATURE - love being in a forest
 - MOTORCYCLES - feeling of freedom!
-- ROMANCE - gotta admit :)
 
 [0]: https://dl.dropboxusercontent.com/u/99213524/heroku.png
 [1]: https://github.com/tadasmajeris/music_mates
